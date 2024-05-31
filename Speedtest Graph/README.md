@@ -8,3 +8,10 @@ I've not created a plugin yet, so for now you will need to install by hand from 
 - download SpeedtestGraph.inc ➡ /usr/local/www/widgets/include
 
 You will then see the widget that you can add in the Dashboard.
+
+## Features
+- connects to your existing Speedtest output as provided bny mimugmail
+- shows uplaod, download and latency by default.
+- clicking on the items in the chart legend will hide them. These settings are remembered in your browser for every reload
+- graph size can be changed in the settings
+- refresh frequency can be set in the settings
